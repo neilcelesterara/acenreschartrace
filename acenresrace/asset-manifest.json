@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.19fc9e8c.css",
+    "main.js": "/static/js/main.ef045fa7.js",
+    "static/js/787.1fa89267.chunk.js": "/static/js/787.1fa89267.chunk.js",
+    "static/media/hero-bg.jpeg": "/static/media/hero-bg.0559908c1d4f5f9db8de.jpeg",
+    "service-worker.js": "/service-worker.js",
+    "static/media/acenlogo.png": "/static/media/acenlogo.7f22613547f5fce3d687.png",
+    "static/media/acenres-logo-web.png": "/static/media/acenres-logo-web.c2eeb1768eec641d8b1a.png",
+    "index.html": "/index.html",
+    "main.19fc9e8c.css.map": "/static/css/main.19fc9e8c.css.map",
+    "main.ef045fa7.js.map": "/static/js/main.ef045fa7.js.map",
+    "787.1fa89267.chunk.js.map": "/static/js/787.1fa89267.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19fc9e8c.css",
+    "static/js/main.ef045fa7.js"
+  ]
+}
